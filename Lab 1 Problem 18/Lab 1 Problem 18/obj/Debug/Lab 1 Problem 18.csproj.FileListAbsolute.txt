@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Lab 1 Problem 18\Lab 1 Problem 18\obj\Debug\Lab 1 Problem 18.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Lab 1 Problem 18\Lab 1 Problem 18\obj\Debug\Lab 1 Problem 18.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Lab 1 Problem 18\Lab 1 Problem 18\bin\Debug\Lab 1 Problem 18.exe.config
+C:\Users\asus\source\repos\Lab 1 Problem 18\Lab 1 Problem 18\bin\Debug\Lab 1 Problem 18.exe
+C:\Users\asus\source\repos\Lab 1 Problem 18\Lab 1 Problem 18\bin\Debug\Lab 1 Problem 18.pdb
+C:\Users\asus\source\repos\Lab 1 Problem 18\Lab 1 Problem 18\obj\Debug\Lab 1 Problem 18.exe
+C:\Users\asus\source\repos\Lab 1 Problem 18\Lab 1 Problem 18\obj\Debug\Lab 1 Problem 18.pdb

@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\Lab 1 Problem 17\Lab 1 Problem 17\bin\Debug\Lab 1 Problem 17.exe.config
+C:\Users\asus\source\repos\Lab 1 Problem 17\Lab 1 Problem 17\bin\Debug\Lab 1 Problem 17.exe
+C:\Users\asus\source\repos\Lab 1 Problem 17\Lab 1 Problem 17\bin\Debug\Lab 1 Problem 17.pdb
+C:\Users\asus\source\repos\Lab 1 Problem 17\Lab 1 Problem 17\obj\Debug\Lab 1 Problem 17.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Lab 1 Problem 17\Lab 1 Problem 17\obj\Debug\Lab 1 Problem 17.exe
+C:\Users\asus\source\repos\Lab 1 Problem 17\Lab 1 Problem 17\obj\Debug\Lab 1 Problem 17.pdb

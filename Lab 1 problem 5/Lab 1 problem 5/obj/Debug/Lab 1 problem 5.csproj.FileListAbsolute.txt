@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\Lab 1 problem 5\Lab 1 problem 5\bin\Debug\Lab 1 problem 5.exe.config
+C:\Users\asus\source\repos\Lab 1 problem 5\Lab 1 problem 5\bin\Debug\Lab 1 problem 5.exe
+C:\Users\asus\source\repos\Lab 1 problem 5\Lab 1 problem 5\bin\Debug\Lab 1 problem 5.pdb
+C:\Users\asus\source\repos\Lab 1 problem 5\Lab 1 problem 5\obj\Debug\Lab 1 problem 5.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Lab 1 problem 5\Lab 1 problem 5\obj\Debug\Lab 1 problem 5.exe
+C:\Users\asus\source\repos\Lab 1 problem 5\Lab 1 problem 5\obj\Debug\Lab 1 problem 5.pdb

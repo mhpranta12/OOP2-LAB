@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Lab 1 Problem 7\Lab 1 Problem 7\obj\Debug\Lab 1 Problem 7.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Lab 1 Problem 7\Lab 1 Problem 7\obj\Debug\Lab 1 Problem 7.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Lab 1 Problem 7\Lab 1 Problem 7\bin\Debug\Lab 1 Problem 7.exe.config
+C:\Users\asus\source\repos\Lab 1 Problem 7\Lab 1 Problem 7\bin\Debug\Lab 1 Problem 7.exe
+C:\Users\asus\source\repos\Lab 1 Problem 7\Lab 1 Problem 7\bin\Debug\Lab 1 Problem 7.pdb
+C:\Users\asus\source\repos\Lab 1 Problem 7\Lab 1 Problem 7\obj\Debug\Lab 1 Problem 7.exe
+C:\Users\asus\source\repos\Lab 1 Problem 7\Lab 1 Problem 7\obj\Debug\Lab 1 Problem 7.pdb
