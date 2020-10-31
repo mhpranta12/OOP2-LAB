@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Lab3TaskAccount\Lab3TaskAccount\bin\Debug\Lab3TaskAccount.exe.config
+C:\Users\asus\source\repos\Lab3TaskAccount\Lab3TaskAccount\bin\Debug\Lab3TaskAccount.exe
+C:\Users\asus\source\repos\Lab3TaskAccount\Lab3TaskAccount\bin\Debug\Lab3TaskAccount.pdb
+C:\Users\asus\source\repos\Lab3TaskAccount\Lab3TaskAccount\obj\Debug\Lab3TaskAccount.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Lab3TaskAccount\Lab3TaskAccount\obj\Debug\Lab3TaskAccount.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Lab3TaskAccount\Lab3TaskAccount\obj\Debug\Lab3TaskAccount.exe
+C:\Users\asus\source\repos\Lab3TaskAccount\Lab3TaskAccount\obj\Debug\Lab3TaskAccount.pdb
