@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Lab3task new\Lab3task new\bin\Debug\Lab3task new.exe.config
+C:\Users\asus\source\repos\Lab3task new\Lab3task new\bin\Debug\Lab3task new.exe
+C:\Users\asus\source\repos\Lab3task new\Lab3task new\bin\Debug\Lab3task new.pdb
+C:\Users\asus\source\repos\Lab3task new\Lab3task new\obj\Debug\Lab3task new.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Lab3task new\Lab3task new\obj\Debug\Lab3task new.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Lab3task new\Lab3task new\obj\Debug\Lab3task new.exe
+C:\Users\asus\source\repos\Lab3task new\Lab3task new\obj\Debug\Lab3task new.pdb
