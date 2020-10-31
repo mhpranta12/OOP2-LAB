@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Lab3TaskTriangle\Lab3TaskTriangle\bin\Debug\Lab3TaskTriangle.exe.config
+C:\Users\asus\source\repos\Lab3TaskTriangle\Lab3TaskTriangle\bin\Debug\Lab3TaskTriangle.exe
+C:\Users\asus\source\repos\Lab3TaskTriangle\Lab3TaskTriangle\bin\Debug\Lab3TaskTriangle.pdb
+C:\Users\asus\source\repos\Lab3TaskTriangle\Lab3TaskTriangle\obj\Debug\Lab3TaskTriangle.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Lab3TaskTriangle\Lab3TaskTriangle\obj\Debug\Lab3TaskTriangle.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Lab3TaskTriangle\Lab3TaskTriangle\obj\Debug\Lab3TaskTriangle.exe
+C:\Users\asus\source\repos\Lab3TaskTriangle\Lab3TaskTriangle\obj\Debug\Lab3TaskTriangle.pdb
