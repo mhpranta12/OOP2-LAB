@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Lab 6 Task\Lab 6 Task\bin\Debug\Lab 6 Task.exe.config
+C:\Users\asus\source\repos\Lab 6 Task\Lab 6 Task\bin\Debug\Lab 6 Task.exe
+C:\Users\asus\source\repos\Lab 6 Task\Lab 6 Task\bin\Debug\Lab 6 Task.pdb
+C:\Users\asus\source\repos\Lab 6 Task\Lab 6 Task\obj\Debug\Lab 6 Task.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Lab 6 Task\Lab 6 Task\obj\Debug\Lab 6 Task.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Lab 6 Task\Lab 6 Task\obj\Debug\Lab 6 Task.exe
+C:\Users\asus\source\repos\Lab 6 Task\Lab 6 Task\obj\Debug\Lab 6 Task.pdb
