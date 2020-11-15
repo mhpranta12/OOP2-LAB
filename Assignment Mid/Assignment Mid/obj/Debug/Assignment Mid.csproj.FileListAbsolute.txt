@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Assignment Mid\Assignment Mid\bin\Debug\Assignment Mid.exe.config
+C:\Users\asus\source\repos\Assignment Mid\Assignment Mid\bin\Debug\Assignment Mid.exe
+C:\Users\asus\source\repos\Assignment Mid\Assignment Mid\bin\Debug\Assignment Mid.pdb
+C:\Users\asus\source\repos\Assignment Mid\Assignment Mid\obj\Debug\Assignment Mid.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Assignment Mid\Assignment Mid\obj\Debug\Assignment Mid.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Assignment Mid\Assignment Mid\obj\Debug\Assignment Mid.exe
+C:\Users\asus\source\repos\Assignment Mid\Assignment Mid\obj\Debug\Assignment Mid.pdb
